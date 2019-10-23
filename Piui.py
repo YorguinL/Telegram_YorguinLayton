@@ -12,7 +12,7 @@ def  echo_all(message):
     print(message.chat.id)
     bot.reply_to(message, message.text)
 
-bot.send_message('673273081', 'JAJ es broma')
+bot.send_message('673273081', 'hdp')
 bot.send_message('673273081', '')
 
 
